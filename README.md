@@ -1,1 +1,0 @@
-# AI-artwork-analyser-using-python
